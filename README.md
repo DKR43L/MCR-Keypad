@@ -4,7 +4,7 @@
 Es gibt ein Hauptverzeichnisse und eine Datei:
 
 - `keypad`
-- `Ressourcen`
+- `Ressourcen.md`
 
 ## keypad
 
