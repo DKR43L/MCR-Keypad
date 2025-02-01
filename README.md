@@ -1,10 +1,10 @@
 
 # Microcontroller Keypad Project
 
-Es gibt zwei Hauptverzeichnisse:
+Es gibt ein Hauptverzeichnisse und eine Datei:
 
 - `keypad`
-- `datenblätter`
+- `Ressourcen`
 
 ## keypad
 
@@ -13,7 +13,7 @@ Dieser Ordner enthält den Quellcode für die Ansteuerung des Keypads:
 - **main.cpp** (Vereinfachte Version)
 - **state_machine.cpp** (State Machine Version)
 
-### Datenblatt
+### Ressourcen
 
 Hier sind die relevanten Datenblätter und Spezifikationen des verwendeten Keypads hinterlegt.
 
