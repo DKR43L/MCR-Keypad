@@ -13,7 +13,7 @@ Dieser Ordner enthält den Quellcode für die Ansteuerung des Keypads:
 - **main.cpp** (Vereinfachte Version)
 - **state_machine.cpp** (State Machine Version)
 
-### Ressourcen
+## Ressourcen.md
 
 Hier sind die relevanten Datenblätter und Spezifikationen des verwendeten Keypads hinterlegt.
 
